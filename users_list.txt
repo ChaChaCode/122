@@ -1,0 +1,6 @@
+Список пользователей:
+ID: 5429082466, Имя: Shmoxy, Username: @Shmoxy
+ID: 900612542, Имя: Oskar NoMoBeach, Username: @None
+ID: 7018842306, Имя: SEARCH ALL, Username: @SearchAll_info_bot
+ID: 5008288272, Имя: Devik { ДИО ВАЛИТ }, Username: @Devik55555
+ID: 306622090, Имя: Виталий Кот, Username: @vkotchenko

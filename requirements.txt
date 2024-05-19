@@ -1,0 +1,10 @@
+aiogram~=2.23.1
+aiohttp~=3.9.3
+loguru~=0.7.2
+requests~=2.31.0
+beautifulsoup4~=4.12.3
+googletrans~=3.0.0
+Telethon~=1.34.0
+pillow~=10.3.0
+openpyxl
+
